@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
  * алфавиту.
  */
 
-public class Main {
+public class TextOperations {
 
     public static void main(String[] args) {
         String text = "Первый абзац. Три предложения. Понял?!\n" +
